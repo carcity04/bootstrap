@@ -188,10 +188,10 @@ body{
 .obo{
     width: 589px;
 }
-.card-best{
+/* .card-best{
     margin-left: 330px !important;
     padding: 0 !important;
-}
+} */
 .footer-section{
     background-image: url('assets/images/BG\ \(1\).png');
     width: 100%;
@@ -230,8 +230,7 @@ body{
     color: rgba(255, 255, 255, 0.5)
 }
 .card-best-2{
-    padding: 0 !important;
-    margin: 0 !important;
+    padding: 50px 0 0 230px !important;
 }
 .our-ser{
     padding: 0 !important;
@@ -334,6 +333,10 @@ body{
      .get-pro{
         padding: 0 !important;
         width: 100%;
+    }
+    .card-best{
+        padding: 0 !important;
+        margin: 0 !important;
     }
 
 }
@@ -494,20 +497,22 @@ body{
     width: 289px;
 }
 .card-best-2{
-    padding: 5px !important;
+    padding: 0 !important;
 }
 .card-best{
-    margin-left: 30px !important;
+    margin-left: 0 !important;
+    padding: 0 !important;
+    
 }
 .get-pro{
     padding-left: 50px !important;
     margin: 0 !important;
-    width: 100%;
+   
 }
 .peace{
     padding: 0 !important;
     margin: 0 !important;
-    width: 100%;
+  
 }
 
 }
