@@ -376,7 +376,7 @@ img {
     
     }
   .hero-section{
-    padding-left: 50px !important;
+    padding-left: 20px !important;
     width: 100%;
   }
     .primary-2{
@@ -393,7 +393,7 @@ img {
     
      }
     .icon-s{
-        width: 100%;
+        width: 50%;
     }
     .papa{
         width: 100%;
@@ -462,7 +462,7 @@ img {
     }
     .plug {
         width: 100%;
-        padding: 25px !important;
+        padding: 50px !important;
         margin: 0px !important; 
     } 
     .story-con-2 {
@@ -542,6 +542,12 @@ img {
 }
 .footer-main{
     padding: 0;
+}
+.small{
+    color: rgba(22, 28, 45, 0.5);
+   
+    font-size: 14px;
+    line-height: 29px;
 }
 
 }
